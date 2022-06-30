@@ -4,6 +4,7 @@
 	"description": "A project for learning npm.",
 	"keywords": ["test", "new", "learning", "tutorial", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
