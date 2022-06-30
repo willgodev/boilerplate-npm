@@ -2,7 +2,7 @@
 	"author": "willgodev",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project for learning npm.",
-	"keywords": ["test", "new", "learning", "tutorial"],
+	"keywords": ["test", "new", "learning", "tutorial", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
